@@ -1,0 +1,6 @@
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsIfejercicio1\AppsIfejercicio1\bin\Debug\AppsIfejercicio1.exe.config
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsIfejercicio1\AppsIfejercicio1\bin\Debug\AppsIfejercicio1.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsIfejercicio1\AppsIfejercicio1\bin\Debug\AppsIfejercicio1.pdb
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsIfejercicio1\AppsIfejercicio1\obj\Debug\AppsIfejercicio1.csprojResolveAssemblyReference.cache
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsIfejercicio1\AppsIfejercicio1\obj\Debug\AppsIfejercicio1.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsIfejercicio1\AppsIfejercicio1\obj\Debug\AppsIfejercicio1.pdb
